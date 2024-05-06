@@ -1,5 +1,5 @@
 .env
 .conda
 .venv
-secret.toml
+secrets.toml
 *.csv
