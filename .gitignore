@@ -3,3 +3,4 @@
 .venv
 secrets.toml
 *.csv
+test.txt
